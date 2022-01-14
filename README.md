@@ -1,4 +1,4 @@
-#  Maximo Application Suite (MAS)8.5 terraform module
+#  Maximo Application Suite terraform module
 
 Deploys Maximo Application Suite (MAS) Core.  Instructions here assume a VPC cluster, but this should also work for non-VPC.
 
